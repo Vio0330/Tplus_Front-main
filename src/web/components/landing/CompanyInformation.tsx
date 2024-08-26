@@ -61,7 +61,7 @@ export default function CompanyInformation() {
           {' '}
         </DataTitle>
         <Data>
-          이희완
+          이희
         </Data>
       </div>
       <div>
